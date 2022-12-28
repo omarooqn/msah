@@ -1,0 +1,185 @@
+        body {
+
+            margin: 0px;
+
+            padding: 0px;
+
+            height: 100px;
+
+           
+position:fixed
+        }
+
+
+
+        @font-face {
+
+            font-family: 'digi';
+
+            src: url("digital.TTF");
+
+        }
+
+
+
+        #texture {
+
+            float: left;
+
+            position: relative;
+
+
+
+            
+
+
+
+        }
+
+
+
+        #bodyc {
+
+            position: absolute;
+
+            left: 20px;
+
+            top: 170px;
+
+        }
+
+
+
+        #count {
+
+            position: absolute;
+
+            left: 134px;
+
+            top: 445px;
+
+        }
+
+
+
+        #count:active {
+
+            width: 170px;
+
+            left: 130px;
+
+            
+        }
+
+
+
+            #reset {
+
+            
+	position: absolute;
+
+            left: 76px;
+
+            top: 395px;
+
+           
+}
+  
+  
+ 
+        }
+
+
+
+        #reset:active {
+            color: #fff;
+           
+        left: 90px;
+        color: #fff;
+        background: #00c4cc;
+        padding: 0px;
+        }
+
+        
+
+
+        #vibrate {
+
+                   position: absolute;
+            left: 295px;
+            top: 396px;
+        }
+
+        #vibrate:active {
+            top: 398px;
+            left: 327px;
+            width: 42px;
+        }
+
+
+
+        h1 {
+
+            position: relative;
+
+            left: 180px;
+
+            bottom: 730px;
+
+            font-size: 70px;
+
+            font-family: 'digi';
+
+            text-align: right;
+
+            width: 100px;
+
+            margin: 0px;
+
+            padding: 0px;
+
+
+
+        }
+
+        #night{
+
+            position: absolute;
+
+            left: 97px;
+
+            top: 235px;
+
+            display: none;
+
+        }
+
+        #backtex{
+
+            float: left;
+
+            position: absolute;
+
+            left: 0px;
+
+            top: 0px;
+
+            display: none;
+
+
+
+        }
+
+        #dark{
+
+            float: left;
+
+            position: absolute;
+
+            top: 150px;
+
+            width: 40px;
+
+            left: 400px;
+
+        }
